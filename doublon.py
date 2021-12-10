@@ -21,7 +21,7 @@ for i in range(len(bdsid_list_doublon)):                                       #
 
 print(row_index_to_delete)
 
-print(hello)
+print("hello")
 #row_index_to_delete = [row_index_to_delete[i][0] for i in range(len(row_index_to_delete)) ]
 
 
